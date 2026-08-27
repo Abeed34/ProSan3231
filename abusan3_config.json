@@ -8,11 +8,11 @@
   "about_subtitle": "Magic City Graphics",
   "about_desc": "Premium Graphics  •  FiveM Tools  •  High Quality Mods",
   "maintenance": false,
-  "announcement": "",
   "enable_dashboard": true,
   "enable_mods": true,
   "enable_servers": true,
   "enable_cleaner": true,
   "enable_about": true,
-  "enable_settings": true
+  "enable_settings": true,
+  "announcement": ""
 }
