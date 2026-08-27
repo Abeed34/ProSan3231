@@ -10,9 +10,9 @@
   "maintenance": false,
   "enable_dashboard": true,
   "enable_mods": true,
-  "enable_servers": true,
+  "enable_servers": false,
   "enable_cleaner": true,
-  "enable_about": true,
+  "enable_about": false,
   "enable_settings": true,
   "announcement": "يوجد صيانه اصبر نص ساعه"
 }
