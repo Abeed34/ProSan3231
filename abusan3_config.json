@@ -7,7 +7,7 @@
   "about_title": "Almal7e",
   "about_subtitle": "Magic City Graphics",
   "about_desc": "Premium Graphics  •  FiveM Tools  •  High Quality Mods",
-  "maintenance": false,
+  "maintenance": true,
   "enable_dashboard": true,
   "enable_mods": true,
   "enable_servers": true,
