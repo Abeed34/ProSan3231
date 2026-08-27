@@ -7,12 +7,12 @@
   "about_title": "Almal7e",
   "about_subtitle": "Magic City Graphics",
   "about_desc": "Premium Graphics  •  FiveM Tools  •  High Quality Mods",
-  "maintenance": true,
+  "maintenance": false,
   "enable_dashboard": false,
   "enable_mods": true,
   "enable_servers": true,
   "enable_cleaner": true,
   "enable_about": true,
   "enable_settings": true,
-  "announcement": "في حاليا صيانة بس صلي على نبي"
+  "announcement": "Happy"
 }
