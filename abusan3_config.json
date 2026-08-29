@@ -7,7 +7,7 @@
   "about_title": "Almal7e",
   "about_subtitle": "Magic City Graphics",
   "about_desc": "Premium Graphics  ÃÂ¢ÃÂÃÂ¢  FiveM Tools  ÃÂ¢ÃÂÃÂ¢  High Quality Mods",
-  "maintenance": true,
+  "maintenance": false,
   "enable_dashboard": true,
   "enable_mods": true,
   "enable_servers": true,
@@ -15,7 +15,7 @@
   "enable_about": true,
   "enable_settings": true,
   "enable_video_tiktok": true,
-  "announcement": "في حاليا صيانة يا حبيب ✅",
+  "announcement": "بجوز بعد نص ساعه في صيانة يا حبيب",
   "users": [
     {
       "username": "owner",
