@@ -15,10 +15,10 @@
   "enable_about": true,
   "enable_settings": true,
   "enable_video_tiktok": true,
-  "announcement": "",
-  "announcement_type": "info",
+  "announcement": "يوجد تحديث الان للاداة اذهب الى روم التعميمات لاخذ النسخة الجديدة",
+  "announcement_type": "important",
   "maintenance_message": "",
-  "maintenance_until": "",
+  "maintenance_until": "بعد نصف ساعه",
   "users": [
     {
       "username": "owner",
