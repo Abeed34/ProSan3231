@@ -7,7 +7,7 @@
   "about_title": "Almal7e",
   "about_subtitle": "Magic City Graphics",
   "about_desc": "Premium Graphics  •  FiveM Tools  •  High Quality Mods",
-  "maintenance": false,
+  "maintenance": true,
   "enable_dashboard": true,
   "enable_mods": true,
   "enable_servers": true,
@@ -17,7 +17,7 @@
   "enable_video_tiktok": true,
   "announcement": "يوجد تحديث الان للاداة اذهب الى روم التعميمات لاخذ النسخة الجديدة",
   "announcement_type": "important",
-  "maintenance_message": "",
+  "maintenance_message": "الأداة تحت الصيانة — نرجع قريباً",
   "maintenance_until": "بعد نصف ساعه",
   "users": [
     {
