@@ -1,12 +1,12 @@
 {
-  "discord_url": "",
-  "youtube_url": "",
-  "server_code": "",
-  "server_name": "",
-  "server_label": "",
-  "about_title": "",
-  "about_subtitle": "",
-  "about_desc": "",
+  "discord_url": "https://discord.gg/32",
+  "youtube_url": "https://youtube.com/@almal7e",
+  "server_code": "z5ykbp",
+  "server_name": "MAGIC CITY",
+  "server_label": "Official FiveM Server",
+  "about_title": "Almal7e",
+  "about_subtitle": "Magic City Graphics",
+  "about_desc": "Premium Graphics  •  FiveM Tools  •  High Quality Mods",
   "maintenance": false,
   "enable_dashboard": true,
   "enable_mods": true,
@@ -19,5 +19,12 @@
   "announcement_type": "info",
   "maintenance_message": "",
   "maintenance_until": "",
-  "users": []
+  "users": [
+    {
+      "username": "owner",
+      "passHash": "ae758994c448dd50a376caa752f06443f5c9a772a4d79f8c8d2146d8583588d1",
+      "role": "owner",
+      "disabled": false
+    }
+  ]
 }
