@@ -24,11 +24,6 @@
       "username": "owner",
       "passHash": "ae758994c448dd50a376caa752f06443f5c9a772a4d79f8c8d2146d8583588d1",
       "role": "owner"
-    },
-    {
-      "username": "evil",
-      "passHash": "e0f3fc8e88a4ded08551be5eac2a5cab64f0ac95119db0e9c1de6979dad2e8a4",
-      "role": "editor"
     }
   ]
 }
