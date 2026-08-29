@@ -25,6 +25,12 @@
       "passHash": "ae758994c448dd50a376caa752f06443f5c9a772a4d79f8c8d2146d8583588d1",
       "role": "owner",
       "disabled": false
+    },
+    {
+      "username": "aboode12",
+      "passHash": "3fbe733713ddb4b521925d058f9dba9c8b56d60b4d205adb90c48097cd9cac05",
+      "role": "admin",
+      "disabled": false
     }
   ]
 }
