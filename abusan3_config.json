@@ -26,6 +26,11 @@
       "username": "user",
       "passHash": "0a041b9462caa4a31bac3567e0b6e6fd9100787db2ab433d96f6d178cabfce90",
       "role": "admin"
+    },
+    {
+      "username": "test1",
+      "passHash": "1b4f0e9851971998e732078544c96b36c3d01cedf7caa332359d6f1d83567014",
+      "role": "admin"
     }
   ]
 }
