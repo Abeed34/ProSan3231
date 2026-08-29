@@ -16,16 +16,14 @@
   "enable_settings": true,
   "enable_video_tiktok": true,
   "announcement": "بجوز بعد نص ساعه في صيانة يا حبيب",
+  "announcement_type": "info",
+  "maintenance_message": "",
+  "maintenance_until": "",
   "users": [
     {
       "username": "owner",
       "passHash": "ae758994c448dd50a376caa752f06443f5c9a772a4d79f8c8d2146d8583588d1",
       "role": "owner"
-    },
-    {
-      "username": "user",
-      "passHash": "0a041b9462caa4a31bac3567e0b6e6fd9100787db2ab433d96f6d178cabfce90",
-      "role": "admin"
     },
     {
       "username": "evil",
