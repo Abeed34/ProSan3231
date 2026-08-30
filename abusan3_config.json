@@ -34,6 +34,13 @@
       "role": "admin",
       "disabled": false,
       "fullName": "ايفل"
+    },
+    {
+      "username": "san3test",
+      "fullName": "مرتب",
+      "passHash": "245bc97ec8d9d70c0a8c2c6048e6afea53965f080a86e9bf1b4130bf3b7af432",
+      "role": "admin",
+      "disabled": false
     }
   ]
 }
