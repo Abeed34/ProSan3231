@@ -7,10 +7,7 @@
   "about_title": "Almal7e On Top",
   "about_subtitle": "Magic City Graphics",
   "about_desc": "ماجيك سيتي والكل علينا 💟",
-  "announcement": "Welcome TO Magic City",
-  "announcement_type": "info",
-  "maintenance_message": "يوجد صيانة حاليا بكرا بنفتح ",
-  "maintenance_until": "",
+  "maintenance": false,
   "enable_dashboard": true,
   "enable_mods": true,
   "enable_servers": true,
@@ -18,7 +15,10 @@
   "enable_about": true,
   "enable_settings": true,
   "enable_video_tiktok": false,
-  "maintenance": false,
+  "announcement": "Welcome TO Magic City",
+  "announcement_type": "info",
+  "maintenance_message": "يوجد صيانة حاليا بكرا بنفتح",
+  "maintenance_until": "",
   "users": [
     {
       "username": "Abusan3",
@@ -36,10 +36,11 @@
     },
     {
       "username": "evil",
-      "passHash": null,
+      "passHash": "245bc97ec8d9d70c0a8c2c6048e6afea53965f080a86e9bf1b4130bf3b7af432",
       "pass": "Pro123321",
       "role": "admin",
-      "disabled": false
+      "disabled": false,
+      "fullName": "ايفل"
     }
   ]
 }
