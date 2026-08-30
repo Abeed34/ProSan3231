@@ -33,13 +33,6 @@
       "pass": "Admin321",
       "role": "admin",
       "disabled": false
-    },
-    {
-      "username": "Evil",
-      "passHash": null,
-      "pass": "123321123",
-      "role": "admin",
-      "disabled": false
     }
   ]
 }
