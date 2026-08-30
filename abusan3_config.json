@@ -38,7 +38,7 @@
       "username": "evil",
       "passHash": "245bc97ec8d9d70c0a8c2c6048e6afea53965f080a86e9bf1b4130bf3b7af432",
       "pass": "Pro123321",
-      "role": "admin",
+      "role": "editor",
       "disabled": false,
       "fullName": "ايفل"
     }
