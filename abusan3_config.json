@@ -18,7 +18,7 @@
   "enable_about": true,
   "enable_settings": true,
   "enable_video_tiktok": false,
-  "maintenance": true,
+  "maintenance": false,
   "users": [
     {
       "username": "Abusan3",
