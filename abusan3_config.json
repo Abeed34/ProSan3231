@@ -9,7 +9,7 @@
   "about_desc": "ماجيك سيتي والكل علينا 💟",
   "announcement": "Welcome TO Magic City",
   "announcement_type": "info",
-  "maintenance_message": "",
+  "maintenance_message": "يوجد صيانة حاليا بكرا بنفتح ",
   "maintenance_until": "",
   "enable_dashboard": true,
   "enable_mods": true,
@@ -31,6 +31,13 @@
       "username": "Admin",
       "passHash": null,
       "pass": "Admin321",
+      "role": "admin",
+      "disabled": false
+    },
+    {
+      "username": "evil",
+      "passHash": null,
+      "pass": "Pro123321",
       "role": "admin",
       "disabled": false
     }
