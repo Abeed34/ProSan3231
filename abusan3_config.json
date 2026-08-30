@@ -7,7 +7,10 @@
   "about_title": "Almal7e On Top",
   "about_subtitle": "Magic City Graphics",
   "about_desc": "ماجيك سيتي والكل علينا 💟",
-  "maintenance": false,
+  "announcement": "Welcome TO Magic City",
+  "announcement_type": "info",
+  "maintenance_message": "",
+  "maintenance_until": "",
   "enable_dashboard": true,
   "enable_mods": true,
   "enable_servers": true,
@@ -15,26 +18,26 @@
   "enable_about": true,
   "enable_settings": true,
   "enable_video_tiktok": false,
-  "announcement": "Welcome TO Magic City",
-  "announcement_type": "info",
-  "maintenance_message": "",
-  "maintenance_until": "",
+  "maintenance": false,
   "users": [
     {
-      "username": "owner",
-      "passHash": "ae758994c448dd50a376caa752f06443f5c9a772a4d79f8c8d2146d8583588d1",
+      "username": "Abusan3",
+      "passHash": null,
+      "pass": "Abusan3@@@",
       "role": "owner",
       "disabled": false
     },
     {
-      "username": "aboode12",
-      "passHash": "3fbe733713ddb4b521925d058f9dba9c8b56d60b4d205adb90c48097cd9cac05",
-      "role": "editor",
+      "username": "Admin",
+      "passHash": null,
+      "pass": "Admin321",
+      "role": "admin",
       "disabled": false
     },
     {
-      "username": "evil",
-      "passHash": "245bc97ec8d9d70c0a8c2c6048e6afea53965f080a86e9bf1b4130bf3b7af432",
+      "username": "Evil",
+      "passHash": null,
+      "pass": "123321123",
       "role": "admin",
       "disabled": false
     }
