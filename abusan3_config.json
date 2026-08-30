@@ -22,7 +22,7 @@
   "users": [
     {
       "username": "Abusan3",
-      "passHash": null,
+      "passHash": "6662b5a0c75f89ca827a5145fdc0cbd984f33a7abd62046e18b564cf08a76f1c",
       "pass": "Abusan3@@@",
       "role": "owner",
       "disabled": false
