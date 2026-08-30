@@ -21,16 +21,20 @@
   "maintenance": false,
   "users": [
     {
-      "username": "Abusan3",
-      "passHash": null,
-      "pass": "Abusan3@@@",
+      "username": "owner",
+      "passHash": "ae758994c448dd50a376caa752f06443f5c9a772a4d79f8c8d2146d8583588d1",
       "role": "owner",
       "disabled": false
     },
     {
-      "username": "Admin",
-      "passHash": null,
-      "pass": "Admin321",
+      "username": "admin",
+      "passHash": "d006b3f546ac914c34dfc209ad535ea530f32a1e8e0ae822ea049b3a783e4d20",
+      "role": "admin",
+      "disabled": false
+    },
+    {
+      "username": "evil",
+      "passHash": "ee9296a19f5fd71a02904ed5549571697d203a2b41cb9e74aaa99d3bed7081cf",
       "role": "admin",
       "disabled": false
     }
