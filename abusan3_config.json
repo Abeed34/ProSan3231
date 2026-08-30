@@ -31,6 +31,12 @@
       "passHash": "3fbe733713ddb4b521925d058f9dba9c8b56d60b4d205adb90c48097cd9cac05",
       "role": "editor",
       "disabled": false
+    },
+    {
+      "username": "evil",
+      "passHash": "0481a74bb05c2a710521bf57446fa00a16559d00919cf5ff62ccb6a3d420f8a4",
+      "role": "admin",
+      "disabled": false
     }
   ]
 }
