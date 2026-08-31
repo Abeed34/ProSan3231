@@ -10,7 +10,7 @@
   "maintenance": false,
   "enable_dashboard": true,
   "enable_mods": true,
-  "enable_servers": true,
+  "enable_servers": false,
   "enable_cleaner": true,
   "enable_about": true,
   "enable_settings": true,
