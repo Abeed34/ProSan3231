@@ -7,7 +7,7 @@
   "about_title": "Almal7e",
   "about_subtitle": "Tool V2",
   "about_desc": "New generation · Premium Graphics · FiveM Tools",
-  "maintenance": false,
+  "maintenance": true,
   "enable_dashboard": true,
   "enable_mods": true,
   "enable_servers": true,
