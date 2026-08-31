@@ -15,8 +15,8 @@
   "enable_about": true,
   "enable_settings": true,
   "enable_video_tiktok": true,
-  "announcement": "صيانة للاداة كاملا",
-  "announcement_type": "important",
+  "announcement": "صيانة للاداة كاملا حاليا",
+  "announcement_type": "info",
   "maintenance_message": "",
   "maintenance_until": "",
   "users": [
