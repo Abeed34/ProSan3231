@@ -22,25 +22,24 @@
   "users": [
     {
       "username": "Abusan3",
-      "passHash": "ae758994c448dd50a376caa752f06443f5c9a772a4d79f8c8d2146d8583588d1",
-      "pass": "Abusan3@@@",
+      "fullName": "",
       "role": "owner",
-      "disabled": false
+      "disabled": false,
+      "passHash": "ae758994c448dd50a376caa752f06443f5c9a772a4d79f8c8d2146d8583588d1"
     },
     {
       "username": "evil",
-      "passHash": "245bc97ec8d9d70c0a8c2c6048e6afea53965f080a86e9bf1b4130bf3b7af432",
-      "pass": "Pro123321",
+      "fullName": "ايفل",
       "role": "admin",
       "disabled": false,
-      "fullName": "ايفل"
+      "passHash": "245bc97ec8d9d70c0a8c2c6048e6afea53965f080a86e9bf1b4130bf3b7af432"
     },
     {
       "username": "san3test",
       "fullName": "مرتب",
-      "passHash": "245bc97ec8d9d70c0a8c2c6048e6afea53965f080a86e9bf1b4130bf3b7af432",
       "role": "admin",
-      "disabled": false
+      "disabled": false,
+      "passHash": "245bc97ec8d9d70c0a8c2c6048e6afea53965f080a86e9bf1b4130bf3b7af432"
     }
   ]
 }
