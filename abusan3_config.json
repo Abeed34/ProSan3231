@@ -7,7 +7,7 @@
   "about_title": "Almal7e On Top",
   "about_subtitle": "Magic City Graphics",
   "about_desc": "ماجيك سيتي والكل علينا 💟",
-  "maintenance": false,
+  "maintenance": true,
   "enable_dashboard": true,
   "enable_mods": true,
   "enable_servers": false,
@@ -17,7 +17,7 @@
   "enable_video_tiktok": true,
   "announcement": "منورين يا حلوين",
   "announcement_type": "info",
-  "maintenance_message": "يوجد صيانة حاليا بكرا بنفتح",
+  "maintenance_message": "يوجد صيانة حاليا بكرا بنفتح يا حلوين",
   "maintenance_until": "",
   "users": [
     {
