@@ -12,7 +12,7 @@
   "enable_mods": true,
   "enable_servers": true,
   "enable_cleaner": true,
-  "enable_about": true,
+  "enable_about": false,
   "enable_settings": true,
   "enable_video_tiktok": false,
   "announcement": "مافيا عم الجميع",
