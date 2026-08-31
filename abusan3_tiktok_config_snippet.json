@@ -3,6 +3,13 @@
   "tiktok_studio": {
     "worker_url": "https://toolcontrolsan3.abdlhaiya.workers.dev",
     "redirect_uri": "https://toolcontrolsan3.abdlhaiya.workers.dev/tiktok/callback",
-    "note": "TikTok Studio linked to Tool Family Control Panel"
+    "site_url": "https://toolcontrolsan3.abdlhaiya.workers.dev",
+    "default_quality": "1080",
+    "default_vertical": true,
+    "default_60fps": true,
+    "default_preset": "high",
+    "default_privacy": "PUBLIC_TO_EVERYONE",
+    "default_post_mode": "direct",
+    "note": "TikTok Studio — Tool Family Control"
   }
 }
