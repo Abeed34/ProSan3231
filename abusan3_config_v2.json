@@ -15,8 +15,8 @@
   "enable_about": true,
   "enable_settings": true,
   "enable_video_tiktok": true,
-  "announcement": "V2 Soon",
-  "announcement_type": "info",
+  "announcement": "صيانة للاداة كاملا",
+  "announcement_type": "important",
   "maintenance_message": "",
   "maintenance_until": "",
   "users": [
