@@ -1,0 +1,22 @@
+{
+  "discord_url": "https://discord.gg/32",
+  "youtube_url": "https://youtube.com/@almal7e",
+  "server_code": "z5ykbp",
+  "server_name": "MAGIC CITY V2",
+  "server_label": "Official FiveM Server V2",
+  "about_title": "Almal7e",
+  "about_subtitle": "Tool V2",
+  "about_desc": "New generation · Premium Graphics · FiveM Tools",
+  "maintenance": false,
+  "announcement": "",
+  "announcement_type": "info",
+  "maintenance_message": "",
+  "maintenance_until": "",
+  "enable_dashboard": true,
+  "enable_mods": true,
+  "enable_servers": true,
+  "enable_cleaner": true,
+  "enable_about": true,
+  "enable_settings": true,
+  "enable_video_tiktok": true
+}
