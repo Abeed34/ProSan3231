@@ -8,15 +8,24 @@
   "about_subtitle": "Tool V2",
   "about_desc": "New generation · Premium Graphics · FiveM Tools",
   "maintenance": false,
-  "announcement": "",
-  "announcement_type": "info",
-  "maintenance_message": "",
-  "maintenance_until": "",
   "enable_dashboard": true,
   "enable_mods": true,
   "enable_servers": true,
   "enable_cleaner": true,
   "enable_about": true,
   "enable_settings": true,
-  "enable_video_tiktok": true
+  "enable_video_tiktok": true,
+  "announcement": "V2 Soon",
+  "announcement_type": "info",
+  "maintenance_message": "",
+  "maintenance_until": "",
+  "users": [
+    {
+      "username": "owner",
+      "fullName": "",
+      "role": "owner",
+      "disabled": false,
+      "passHash": "ae758994c448dd50a376caa752f06443f5c9a772a4d79f8c8d2146d8583588d1"
+    }
+  ]
 }
