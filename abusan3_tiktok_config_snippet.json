@@ -1,0 +1,8 @@
+{
+  "enable_video_tiktok": true,
+  "tiktok_studio": {
+    "worker_url": "https://toolcontrolsan3.abdlhaiya.workers.dev",
+    "redirect_uri": "https://toolcontrolsan3.abdlhaiya.workers.dev/tiktok/callback",
+    "note": "TikTok Studio linked to Tool Family Control Panel"
+  }
+}
