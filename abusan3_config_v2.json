@@ -15,7 +15,7 @@
   "enable_about": true,
   "enable_settings": true,
   "enable_video_tiktok": false,
-  "enable_graphics": true,
+  "enable_graphics": false,
   "announcement": "Almal7e On Top",
   "announcement_type": "info",
   "maintenance_message": "",
