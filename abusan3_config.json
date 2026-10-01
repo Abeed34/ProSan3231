@@ -6,7 +6,7 @@
   "server_label": "Server Magic City",
   "about_title": "Almal7e On Top",
   "about_subtitle": "Magic City Graphics",
-  "about_desc": "ÙØ§Ø¬ÙÙ Ø³ÙØªÙ ÙØ§ÙÙÙ Ø¹ÙÙÙØ§ ð",
+  "about_desc": "ÃÂÃÂ§ÃÂ¬ÃÂÃÂ ÃÂ³ÃÂÃÂªÃÂ ÃÂÃÂ§ÃÂÃÂÃÂ ÃÂ¹ÃÂÃÂÃÂÃÂ§ Ã°ÂÂÂ",
   "maintenance": false,
   "enable_dashboard": true,
   "enable_mods": true,
@@ -16,9 +16,9 @@
   "enable_settings": true,
   "enable_video_tiktok": false,
   "enable_graphics": true,
-  "announcement": "Pro231",
+  "announcement": "يعطيكم العافية حبايب",
   "announcement_type": "info",
-  "maintenance_message": "ÙÙØ¬Ø¯ ØµÙØ§ÙØ© Ø­Ø§ÙÙØ§ Ø¨ÙØ±Ø§ Ø¨ÙÙØªØ­ ÙØ§ Ø­ÙÙÙÙ",
+  "maintenance_message": "ÃÂÃÂÃÂ¬ÃÂ¯ ÃÂµÃÂÃÂ§ÃÂÃÂ© ÃÂ­ÃÂ§ÃÂÃÂÃÂ§ ÃÂ¨ÃÂÃÂ±ÃÂ§ ÃÂ¨ÃÂÃÂÃÂªÃÂ­ ÃÂÃÂ§ ÃÂ­ÃÂÃÂÃÂÃÂ",
   "maintenance_until": "",
   "users": [
     {
@@ -30,7 +30,7 @@
     },
     {
       "username": "evil",
-      "fullName": "Ø§ÙÙÙ",
+      "fullName": "ÃÂ§ÃÂÃÂÃÂ",
       "role": "admin",
       "disabled": false,
       "passHash": "245bc97ec8d9d70c0a8c2c6048e6afea53965f080a86e9bf1b4130bf3b7af432"
